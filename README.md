@@ -1,5 +1,6 @@
 # repo1
-my first repository
 Author: Khushi
-Description: This is my first repository on github
+<br>
+Description: This is my first repository on github.
+<br>
 I am practicing here
